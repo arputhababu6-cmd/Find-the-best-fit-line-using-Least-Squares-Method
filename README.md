@@ -56,7 +56,6 @@ RegisterNumber:  25012532
 ```
 
 ## Output:
-![best fit line](sam.png)
 <img width="766" height="631" alt="image" src="https://github.com/user-attachments/assets/62ec44e7-db22-45cc-9048-af0b6c20e0f7" />
 
 
